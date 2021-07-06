@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Rahul
-- 👀 I’m interested in Data Science
-- 🌱 
-- 💞️ I’m open to collaborate on projects as well as research related to Data Science Projects
-- 📫 
+- 👀 I’m interested in Data Science 
+- 💞️ I’m open to collaborate on projects and research related to Data Science
      
 
 <!---
