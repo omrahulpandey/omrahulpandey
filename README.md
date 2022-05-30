@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rahul
-- 👀 I’m interested in Data Science 
+- 👀 I’m Data Science fan.
 - 💞️ I’m open to collaborate on projects and research related to the area.
      
 
