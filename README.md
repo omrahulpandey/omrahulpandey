@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋 there, I'm Rahul Pandey</h1>
-<h3 align="center">A passionate Data Science practitioner</h3>
+<h3 align="center">A passionate Data Scientist</h3>
 <img align="right" alt="Coding" width="250" height="250" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif">
 
 
 ### Completed Courses
 Courses: Python Programming, Statistics, Data Analysis & Visualization, Machine Learning, SQL & Analytics
 
-Highlights: 500+ hours of coursework, 10 coding assignments, 3 projects (Web scraping, EDA, Tableau)
+Highlights: 500+ hours of coursework, 10 coding assignments, 3 projects (Web scraping, EDA, Tableau, Power BI)
 
 My Projects
 
@@ -43,7 +43,6 @@ My Projects
 <a href="https://linkedin.com/in/omrahulpandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omrahulpandey" height="30" width="40" /></a>
 <a href="https://kaggle.com/omrahulpandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="omrahulpandey" height="30" width="40" /></a>
 <a href="https://medium.com/@ra.pan.91294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ra.pan.91294" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/omrahulpandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="omrahulpandey" height="30" width="40" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
